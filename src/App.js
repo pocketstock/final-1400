@@ -43,9 +43,37 @@ function App() {
               <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
             </div>
           </div>
+          <div className='person'>
+            <div className='name'>
+              <h1>Nicole</h1>
+              <p>AEROSPACE ENGINEERING</p>
+            </div>
+            <div className='blurb'>
+              <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
+            </div>
+          </div>
+          <div className='person'>
+            <div className='name'>
+              <h1>Becca</h1>
+              <p>AEROSPACE ENGINEERING</p>
+            </div>
+            <div className='blurb'>
+              <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
+            </div>
+          </div>
+          <div className='person'>
+            <div className='name'>
+              <h1>Frank</h1>
+              <p>AEROSPACE ENGINEERING</p>
+            </div>
+            <div className='blurb'>
+              <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
+            </div>
+          </div>
         </div>
+        
         <div className='who-container'>
-          <h1>Contant Us</h1>
+          <h1>Contact Us</h1>
           <p>Contact us for business inquiries at</p>
           <br></br>
           <p>engineering@strangerz.com</p>
