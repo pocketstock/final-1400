@@ -15,12 +15,12 @@ function App() {
         <div className='content-wrapper'>
           <div className='who-container'>
             <h1>Who We Are</h1>
-            <p>We are team of engineers from all around the globe that strives to make technologies that help connect people. We have members from the east coast, west coast, peru, and mexico as well as right here in Colorado. </p>
+            <p>We are team of engineers from all around the globe that strives to make technologies that help connect people. We have members from the east coast, west coast, peru, and mexico as well as right here in Colorado. We are a full stack engineering development team that can fit any of your needs.</p>
           </div>
         </div>
         <div className='who-container'>
           <h1>What We Do</h1>
-          <p>Our mission statement is to engineer new technologies that help connect the world. We believe that the world is better when you connected. </p>
+          <p>Our mission statement is to engineer new technologies that help connect the world. We believe that the world is a better place when you are connected. </p>
         </div>
         <div className='meet-container'>
           <h1>Meet The Team</h1>
