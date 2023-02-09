@@ -27,6 +27,15 @@ function App() {
           <img src={team} ></img>
           <div className='person'>
             <div className='name'>
+              <h1>Joe</h1>
+              <p>AEROSPACE ENGINEERING</p>
+            </div>
+            <div className='blurb'>
+              <p>Aiden was born in Boston Massachusetts and is pursing a degree in Aerospace Engineering.</p>
+            </div>
+          </div>
+          <div className='person'>
+            <div className='name'>
               <h1>Aiden</h1>
               <p>AEROSPACE ENGINEERING</p>
             </div>
@@ -55,10 +64,10 @@ function App() {
           <div className='person'>
             <div className='name'>
               <h1>Becca</h1>
-              <p>AEROSPACE ENGINEERING</p>
+              <p>CIVIL ENGINEERING</p>
             </div>
             <div className='blurb'>
-              <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
+              <p>Becca was born in New Jersey and is pursing a degree in Civil Engineering.</p>
             </div>
           </div>
           <div className='person'>
