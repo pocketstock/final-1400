@@ -28,10 +28,10 @@ function App() {
           <div className='person'>
             <div className='name'>
               <h1>Joe</h1>
-              <p>AEROSPACE ENGINEERING</p>
+              <p>MECHANICAL ENGINEERING</p>
             </div>
             <div className='blurb'>
-              <p>Aiden was born in Boston Massachusetts and is pursing a degree in Aerospace Engineering.</p>
+              <p>Joe was born in Longmont Colorado and is pursing a degree in Mechanical Engineering.</p>
             </div>
           </div>
           <div className='person'>
@@ -58,7 +58,7 @@ function App() {
               <p>AEROSPACE ENGINEERING</p>
             </div>
             <div className='blurb'>
-              <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
+              <p>Nicole was born in Parker, CO and is pursing a degree in Aerospace Engineering.</p>
             </div>
           </div>
           <div className='person'>
@@ -72,11 +72,11 @@ function App() {
           </div>
           <div className='person'>
             <div className='name'>
-              <h1>Frank</h1>
-              <p>AEROSPACE ENGINEERING</p>
+              <h1>Franck</h1>
+              <p>MECHANICAL ENGINEERING</p>
             </div>
             <div className='blurb'>
-              <p>Diego was born in Mexico and is pursing a degree in Aerospace Engineering.</p>
+              <p>Franck was born in Peru and is pursing a degree in Mechanical Engineering.</p>
             </div>
           </div>
         </div>
